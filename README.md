@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lorenzo 👋
+[### Olá! Eu sou o Lorenzo 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-cardoso-462b61233/) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/llorenzocardoso)
 
@@ -17,7 +17,3 @@
     <img align="center" alt="mysql"src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 </br>
-
-## Status do Github
-
-![Lorenzo GitHub stats](https://github-readme-stats.vercel.app/api?username=llorenzocardoso&show_icons=true&theme=dark)
