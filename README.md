@@ -1,20 +1,30 @@
-### Olá! Eu sou o Lorenzo 👋
+<h1 align="center">Olá, eu sou o Lorenzo</h1>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorenzo-cardoso-462b61233/) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/llorenzocardoso)
+<p align="center">
+  Software Engineer no Brasil. Construo apps web, mobile e desktop, do front ao back.
+</p>
 
+<p align="center">
+  <a href="https://lorenzocardoso.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+  <a href="https://www.linkedin.com/in/lorenzo-cardoso-462b61233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:llorenzocardoso1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-## Skills
-<div style="display: inline_block">
-    <img align="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="css"src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="js"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="react"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" alt="tailwindcss"src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    <img align="center" alt="java"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img align="center" alt="flutter"src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-    <img align="center" alt="kotlin"src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img align="center" alt="mysql"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="mysql"src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</div>
-</br>
+---
 
+## Destaque
+
+### [Telinha](https://github.com/llorenzocardoso/telinha)
+
+Compartilhamento de tela P2P para Windows, sem conta e sem complicação. Salas temporárias por código, WebRTC, áudio do sistema, câmera opcional e várias transmissões lado a lado.
+
+[Site](https://usetelinha.vercel.app/) · [Código](https://github.com/llorenzocardoso/telinha)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=llorenzocardoso&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llorenzocardoso&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
