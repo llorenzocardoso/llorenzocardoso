@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://lorenzocardoso.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+  <a href="https://lorenzocardoso.vercel.app"><img height="28" alt="lorenzoLogo" src="https://github.com/user-attachments/assets/1959c960-8a22-49d1-beb3-18db86a4cccd"/></a>
   <a href="https://www.linkedin.com/in/lorenzo-cardoso-462b61233/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:llorenzocardoso1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
