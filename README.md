@@ -17,7 +17,7 @@
 
 Compartilhamento de tela P2P para Windows, sem conta e sem complicação. Salas temporárias por código, WebRTC, áudio do sistema, câmera opcional e várias transmissões lado a lado.
 
-[Site](https://usetelinha.vercel.app/) · [Código](https://github.com/llorenzocardoso/telinha)
+[Site](https://usetelinha.vercel.app/)
 
 ---
 
